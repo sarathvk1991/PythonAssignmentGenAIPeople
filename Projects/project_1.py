@@ -45,7 +45,7 @@ def main():
         print("=" * 60)
         try:
             text = read_pdf(pdf_path)
-            print(text)
+            #print(text)
             write_text_to_output(text)
         except Exception as e:
             print(f"Error reading {pdf_path.name}: {e}")

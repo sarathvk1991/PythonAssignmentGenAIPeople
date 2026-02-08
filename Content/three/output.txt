@@ -1,0 +1,175 @@
+--- THANUSHREE NL.pdf ---
+THANUSHREE NL  
+Software Development Tech Lead 
+ 
+Contact 
+ 
++91 9606467516 
+thanu.nakshathra@gmail.com 
+linkedin.com/in/thanu-shree-nl 
+ 
+Core Competencies & 
+Technical Skills 
+ 
+Self-driven and motivated  
+Strong problem solving and 
+analytical abilities  
+Excellent communication and 
+collaboration abilities 
+Software Development 
+Core Java, Spring Boot, 
+Microservices, REST APIs, 
+Spring MVC, Thymeleaf, 
+Apache Kafka, Hibernate, 
+HTML, CSS, JS 
+Databases 
+Redis, MySQL, MongoDB 
+Unit Testing 
+JUnit, Mockito 
+Build & Project Tools 
+Maven, Gradle, Git, 
+Jira, Kibana, Grafana 
+API Documentation 
+Swagger, Postman, 
+Confluence 
+DevOps 
+CI/CD (Jenkins), Docker, 
+Kubernetes, AWS Cloud 
+Additional Skills 
+Prompt Engineering, 
+Copilot, ChatGPT 
+ 
+Educational Qualification 
+ 
+Master of Computer Applications 
+(MCA), Bangalore University,  
+June 2016 
+ 
+Summary: 
+Results-driven professional with 7 years of experience spanning Software 
+Development, Product Lifecycle Management, and Architecture. Demonstrated 
+expertise in designing and deploying scalable microservices, optimizing application 
+performance, and leading cross-functional teams. Adept at delivering mission -
+critical products, fostering collaboration, driving innovation, and ensuring 
+exceptional customer satisfaction (99%). 
+ 
+Professional Summary: 
+ 
+L&T Technology Services (Client - Signify): Feb 2024 – Till date. 
+Role: Tech Lead 
+• Leading cross -functional development teams, providing technical 
+guidance, mentorship, and strategic direction. 
+• Collaborating with Product Managers, Architects, Designers and 
+Stakeholders to define scope and delivery timelines 
+• Maintaining 100% timely project deliveries, achieving 25% improvement in 
+team velocity by adopting Agile methodologies 
+• Ensuring adherence to coding standards and architectural best practices 
+for scalability and manageability 
+• Driving innovation culture and professional development initiatives across 
+the team 
+Role: Software Developer 
+• Contributed to the design and development of Java based microservices, 
+delivering multiple business critical features with high reliability and 
+scalability. 
+• Enhanced application performance and responsiveness by implementing 
+Redis Caching mechanisms, significantly reducing database load. 
+• Built and maintained CI/CD pipelines to enable automated build, test, and 
+deployment processes. 
+ 
+Projects: 
+CTX – Interact City Application  
+Technologies:  
+Java, Springboot, Junit, Mockito, Microservices, Kafka, Redis, CI/CD, Dockers, AWS 
+ 
+Interact City uses RF Mesh technology to manage lighting assets, control 
+connected lighting systems and  optimize public lighting energy consumption 
+through efficient communication between the application and infrastructure. 
+ 
+Achievements: 
+• Reduced memory usage by 30% via GC Analysis 
+• Performance optimization: Improved API performance by 40% using Redis 
+Caching  
+ 
+Swayaan Digital Solutions Pvt Ltd: Dec 2018 – Jan 2024 
+Role: Team Lead  
+• Direct a team of 10+ software developers across parallel product and 
+multiple customer engagements. 
+• Translate business requirements into technical specifications, solution 
+designs, development, and implementation roadmaps. 
+• Implement Agile practices to ensure timely project deliveries and code 
+quality metrics. 
+• Establish code review protocols and quality gates, ensuring consistent 
+coding standards. 
+• Upskilling team members on advanced concepts through technical 
+sessions and workshops 
+Languages 
+ 
+Kannada, English, 
+Hindi, Telugu 
+ 
+Achievements 
+ 
+Star Performer Award – 
+LTTS, 2024 
+Most Valuable Contributor – 
+Swayaan, 2019 
+ 
+Extra-curricular Activities 
+ 
+Intra Company Sports – Signify 
+Winner – Badminton Singles 
+Winner – Throwball 
+ 
+ 
+Role: Senior Software Developer 
+• Developed RESTful API web services using Spring Rest and Spring boot 
+supporting web and mobile applications. 
+• Built full feature web applications using Spring MVC and Thymeleaf with 
+responsive UI design.  
+Projects: 
+NAVITEM (Client – Delos) 
+Technologies:  
+Java, Springboot, Junit, Mockito, Microservices, Dockers, AWS, MySQL 
+ 
+NavIETM solves the Aerospace/Navy industry technical documentation challenges 
+with the latest of cloud technologies. It allows any technical manual publishing is 
+made easy through. Pay as you go modal, no need of installing software which 
+makes the whole p rocess hassle free. Reduces the cost to a great extent on the 
+technical publishing.  
+NavITEM is also offered on -premises to address the privacy, network restrictions of 
+an organization. 
+ 
+NYSF EVALUATION MANAGEMENT SYSTEM (Client – NYSF) 
+Technologies: 
+Java, Springboot, Junit, Mockito, Spring MVC, MySQL 
+ 
+NYSF vision is to build and market the brand of Yogasana through sustainable and 
+scalable development and a competition structure that benefits the athletes, 
+officials, and the sport. Building a comprehensive software solution to digitalise the 
+manual activity. NYSF represents in Khelo India for conducting a Yogasana event 
+to manage event participants and their evaluation for identifying winners in specific 
+categories. The NYSF EMS allows conducting the Yogasana championship across 
+the country. 
+ 
+SPSI Security Officer Management System (Client – Shadow Protective Service Inc.) 
+Technologies:  
+Java, Springboot, Junit, Mockito, Microservices, AWS, MongoDB, MySQL 
+ 
+SPSI involves the toughest problems in security industry allows Security Agencies and 
+Security personals to efficiently manage their resources. It provides a Mobile App 
+for the Security Manager to track, manage shift of Officers and other resources. 
+ 
+Pragathi Group of Institutions: Jul 2018 – Oct 2020 
+Role: Computer Science Lecturer 
+ 
+Bridge academic concepts with industry practices through applied examples and 
+coding demonstrations. 
+Guided students in building real -world applications using modern programming 
+tools. 
+Delivered Pre -University level instructions in core computer science subjects with 
+emphasis on software development.  
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,83 @@
+--- Priyanshu Sinha.pdf ---
+Priyanshu Sinha 
+Java Full Stack Developer 
+Current org: Oracle | Mob: +91  8073674591|Mail: priyanshu146sinha@gmail.com 
+Summary  
+Java Software Developer | 4.8 Years of Experience 
+Java full stack developer with 4.8 years of experience in the financial domain, specializing in Java development. 
+Proficient in designing and developing microservices using Spring Boot, with a proven track record of improving system 
+scalability and performance.  
+Work Experience  
+• Total Experience: 4.8 Year of Experience 
+• Current Company: Oracle  
+• Duration: Aug 2022 - Present 
+• Previous Company: Uplabs Technologies  
+• Duration: April 2021 – Jul 2022 
+• Role: Java developer 
+Technical Skills  
+• Languages: Java 17, Servlet, JSP, Typescript, C, C++, HTML, CSS. 
+• Frameworks: Spring Framework/Spring Boot /Spring Cloud/Data-JPA, Angular 18, Hibernate, JUnit, Mockito. 
+• Web & Integration: Angular, Material UI, Bootstrap, REST/Web Services, JSON, XML, JDBC. 
+• CI/CD & Automation: Maven, Jenkins, Jira, Confluence, Git, Bitbucket, GitHub, Tomcat, Jakarta 
+• DevOps & Cloud: RLM BMC, OpenShift, Docker, Monitoring Tools, Microservice Architecture 
+• Databases: MySQL, Oracle DB 
+• Other tools: SonarQube, JaCoCo, Blackduck, Unix. 
+• Additional Skills: Personal Leadership, Agile, Scrum, Event-Driven-Design, CleanCode 
+Current Project  
+Oracle OFSS Aug 2022 - Present 
+Java Full Stack Developer Bangalore, KA, IN 
+ 
+Project Description: 
+Citi Screening is Citi's standard enterprise-wide sanctions platform that provides a scalable and flexible framework for 
+screening accounts, relationships and instructions/transactions. The platform is designed to monitor and screen data 
+against sanctioned and non-sanctioned parties against watch-lists. Citi Screening Transactions. Screening is an 
+application for the screening of transactions data against watch-lists of sanctions, or other lists. Transactions screened 
+include, but are not limited to, funds. transfer and payments (cross-border and domestic) as well as Trade and 
+Securities. 
+ 
+• Designed and implemented microservices using Spring Boot and REST APIs, improving system scalability and 
+maintainability. 
+• Developed front-end components in Angular with responsive UI using Bootstrap. 
+• Integrated backend services with MySQL/Oracle DB and optimized database queries. 
+• Collaborated in Agile/Scrum ceremonies, ensuring on-time delivery of sprint deliverables. 
+• Implemented unit and integration testing using JUnit & Mockito, improving code quality coverage 
+• Maintain comprehensive documentation of the codebase, APIs, and system design. 
+ 
+ 
+ 
+ 
+Previous Project  
+Uplabs Tech Apr 2021 – Jul 2022 
+Java Developer Bangalore, KA, IN 
+ 
+Project Description: 
+CRM 9.3 refers to all strategies, techniques, tools, and technologies used by enterprises for  developing, retaining, and 
+acquiring customers. This software ensures that every step of the interaction with customers goes smoothly and 
+efficiently to increase the overall profits. The software gathers customer data from multiple channels. Hence, CRM 9.3 
+stores detailed information on overall purchase history, personal information, and even purchasing patterns. 
+• Developing controllers in Spring boot to interact with backend business logic 
+• Repositories development for performing database operations in spring boot. 
+• Developing repositories to perform database operation in spring boot 
+• Implementing webservices using restful 
+• Exposing Webservices as well as consuming Webservices 
+• Testing webservices using postman/Swagger 
+ 
+ 
+Education  
+• Bachelor’s degree in computer application, Lalit Narayan Mithila University — Achieved 72%. 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  Priyanshu Sinha 
