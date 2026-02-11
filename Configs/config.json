@@ -1,3 +1,12 @@
 {
-  "regex": "Chapter\\s+\\d+\\s*:\\s*.*$"
+  "regex": "(?s)(?P<number>\\d+)\\.\\s*(?P<question>.*?)\\n(?P<options>(?:[A-D]\\).*?\\n){4})",
+  "chapter_regex": "Chapter\\s+\\d+\\s*:\\s*(?P<chapter>.*)",
+  "db": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "password",
+    "database": "questions_db"
+  },
+  "subject_name": "Chemistry"
 }

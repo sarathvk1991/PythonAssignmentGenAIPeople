@@ -116,7 +116,15 @@ def main():
         write_text_to_output("")
         return
 
-    matched_text = "\n".join(matches)
+    formatted_matches = []
+
+    for m in matches:
+        if isinstance(m, tuple):
+            formatted_matches.append("\n".join(part.strip() for part in m if part))
+        else:
+            formatted_matches.append(str(m).strip())
+
+    matched_text = "\n\n".join(formatted_matches)
     write_text_to_output(matched_text)
 
 
